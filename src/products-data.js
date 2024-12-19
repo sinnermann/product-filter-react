@@ -4,14 +4,14 @@ export const products = [
     title: "Leather Jacket",
     category: "gown",
     price: 249.99,
-    img: "/public/jacket.jpg",
+    img: "./public/jacket.jpg",
   },
   {
     id: 2,
     title: "Arrow Shirt",
     category: "shirt",
     price: 15.99,
-    img: "/public/shirt.jpg",
+    img: "./public/shirt.jpg",
   },
   {
     id: 3,
